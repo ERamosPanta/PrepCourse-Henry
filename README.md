@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de Prueba del PrepCourse Henry
+Este es un proyecto de como crear un repositorio y guardarlo de github a mi computadora.
